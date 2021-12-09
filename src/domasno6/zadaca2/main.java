@@ -16,7 +16,7 @@ public class main {
 
         if(lista.size() == 3) {
             lista.add("Germanija");
-            lista.add("Ukrajna");
+            lista.add("Avstrija");
 
             System.out.println(lista);
         }

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8aa8f5ca-002c-41b7-9f8a-447970ca7a89" name="Changes" comment="" />
+    <list default="true" id="8aa8f5ca-002c-41b7-9f8a-447970ca7a89" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/domasno6/zadaca2/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/domasno6/zadaca2/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domasno6/zadaca2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domasno6/zadaca2/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2234WvilE9h1edfMOKW2FjpurMG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -76,8 +84,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.main (1)">
+  <component name="RunManager" selected="Application.main (2)">
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="domasno6.zadaca11.main" />
       <module name="untitled104" />
@@ -91,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="domasno6.zadaca8.main" />
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domasno6.zadaca2.main" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="domasno6.zadaca8.*" />
+          <option name="PATTERN" value="domasno6.zadaca2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="domasno6.zadaca7.main" />
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domasno6.zadaca8.main" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="domasno6.zadaca7.*" />
+          <option name="PATTERN" value="domasno6.zadaca8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.main (4)" />
       <item itemvalue="Application.main (3)" />
       <item itemvalue="Application.main (5)" />
       <item itemvalue="Application.main" />
       <item itemvalue="Application.main (1)" />
+      <item itemvalue="Application.main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.main (5)" />
         <item itemvalue="Application.main (3)" />
-        <item itemvalue="Application.main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +177,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639052986422</updated>
-      <workItem from="1639052987766" duration="4434000" />
+      <workItem from="1639052987766" duration="4883000" />
     </task>
     <servers />
   </component>
